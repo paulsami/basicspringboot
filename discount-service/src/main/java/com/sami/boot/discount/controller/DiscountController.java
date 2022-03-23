@@ -1,7 +1,11 @@
-package com.bootcamp.discount.controller;
+package com.sami.boot.discount.controller;
 
 import java.util.Map;
 
+import com.sami.boot.discount.config.DiscountRuleMap;
+import com.sami.boot.discount.dto.DiscountRequest;
+import com.sami.boot.discount.dto.DiscountResponse;
+import com.sami.boot.discount.dto.ProductCategory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.MediaType;
@@ -11,11 +15,6 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.ResponseStatus;
 import org.springframework.web.bind.annotation.RestController;
-
-import com.bootcamp.discount.config.DiscountRuleMap;
-import com.bootcamp.discount.dto.DiscountRequest;
-import com.bootcamp.discount.dto.DiscountResponse;
-import com.bootcamp.discount.dto.ProductCategory;
 
 import lombok.extern.slf4j.Slf4j;
 
