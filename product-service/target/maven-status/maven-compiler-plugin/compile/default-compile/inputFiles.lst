@@ -1,0 +1,13 @@
+C:\work\basicspringboot\product-service\src\main\java\com\sami\boot\product\entity\ProductCategory.java
+C:\work\basicspringboot\product-service\src\main\java\com\sami\boot\product\config\DiscountServiceconfig.java
+C:\work\basicspringboot\product-service\src\main\java\com\sami\boot\product\dto\DiscountRequest.java
+C:\work\basicspringboot\product-service\src\main\java\com\sami\boot\product\ProductServiceApplication.java
+C:\work\basicspringboot\product-service\src\main\java\com\sami\boot\product\dto\ProductPrice.java
+C:\work\basicspringboot\product-service\src\main\java\com\sami\boot\product\adaptor\DiscountServiceClient.java
+C:\work\basicspringboot\product-service\src\main\java\com\sami\boot\product\dto\DiscountResponse.java
+C:\work\basicspringboot\product-service\src\main\java\com\sami\boot\product\repo\ProductRepo.java
+C:\work\basicspringboot\product-service\src\main\java\com\sami\boot\product\service\ProductService.java
+C:\work\basicspringboot\product-service\src\main\java\com\sami\boot\product\adaptor\DiscountFeignFallback.java
+C:\work\basicspringboot\product-service\src\main\java\com\sami\boot\product\adaptor\DiscountServiceFeignClient.java
+C:\work\basicspringboot\product-service\src\main\java\com\sami\boot\product\resource\ProductResource.java
+C:\work\basicspringboot\product-service\src\main\java\com\sami\boot\product\entity\Product.java

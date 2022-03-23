@@ -1,0 +1,13 @@
+com\sami\boot\product\adaptor\DiscountServiceFeignClient.class
+com\sami\boot\product\resource\ProductResource.class
+com\sami\boot\product\service\ProductService.class
+com\sami\boot\product\ProductServiceApplication.class
+com\sami\boot\product\adaptor\DiscountFeignFallback.class
+com\sami\boot\product\repo\ProductRepo.class
+com\sami\boot\product\entity\Product.class
+com\sami\boot\product\adaptor\DiscountServiceClient.class
+com\sami\boot\product\dto\DiscountResponse.class
+com\sami\boot\product\dto\DiscountRequest.class
+com\sami\boot\product\dto\ProductPrice.class
+com\sami\boot\product\config\DiscountServiceconfig.class
+com\sami\boot\product\entity\ProductCategory.class
