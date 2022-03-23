@@ -1,4 +1,4 @@
-package com.bootcamp;
+package com.sami.boot.server;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
